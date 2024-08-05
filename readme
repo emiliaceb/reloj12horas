@@ -1,0 +1,20 @@
+#   Reloj 
+
+En este repositorio se encuentra el ejercicio n° 4 de la practica de DOM y BOM de JavaScript.
+El mismo consiste en el desarrollo de un reloj con fecha y hora.
+
+## Tecnologias utilizadas ⚒️
+- [HTML5]
+-[Bootstrap]
+-[css]
+-[JavaScript]
+
+## Como utilizar 
+
+Puedes probarlo [aqui](https://reloj-am-pm.netlify.app/)
+o descargar el repositorio utilizando el siguiente comando: 
+```bash
+https://github.com/emiliaceb/reloj12horas.git
+```
+## Autor 🤠🖥️
+Emilia Ceballos
